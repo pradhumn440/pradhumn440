@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pradhumn440
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning redux
 - 📫 How to reach me pradhumnporwal@gmail.com
 
 <!---
