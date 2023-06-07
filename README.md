@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradhumn440
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning redux
+- 👀 I’m interested in Java, Spring Boot, MySQL, Cassandra, Apache Kafka, Elasticsearch Kibana.
+- 🌱 I’m currently learning Kafka
 - 📫 How to reach me pradhumnporwal@gmail.com
 
 <!---
